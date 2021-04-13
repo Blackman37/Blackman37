@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blackman37
 - 👀 I’m interested in Node.js
 - 🌱 I’m currently learning a lot of Node.js and play the guitar
-- 💞️ I’m looking to collaborate on Node.js App, ideally with APIs
+- 💞️ I’m looking to collaborate on Node.js App
 - 📫 How to reach me - via mail jan.cernousek@post.cz
 
 <!---
